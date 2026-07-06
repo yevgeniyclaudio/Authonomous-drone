@@ -1,1 +1,1 @@
-<img src="autonomous_drone.gif" width="600">
+<img src="autonomous drone.gif" width="600">
